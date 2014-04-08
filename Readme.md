@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [bredele/doors](http://github.com/bredele/doors). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/bredele-doors`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # doors
 
   > A door represents the eventual result of an asynchronous operation. This operation is trigerred by an `open` event and depend on multiple conditions (`locks`).

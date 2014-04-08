@@ -1,5 +1,5 @@
-var Emitter = require('component-emitter');
-var index = require('indexof');
+// commented out by npm-component: var Emitter = require('component-emitter');
+var index = require('component-indexof');
 
 
 /**
